@@ -1,1 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nn2YhwXT)
+# Perez John Patrick's Portfolio
+
+Welcome to my personal portfolio website! This site showcases my projects, skills, and experiences. Feel free to explore and learn more about me.
+
+## Visit the Portfolio
+You can access the portfolio by clicking on the following link:
+[Perez John Patrick Portfolio](perezjohnpatrick.netlify.app/)
