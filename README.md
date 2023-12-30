@@ -4,4 +4,4 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## Visit the Portfolio
 You can access the portfolio by clicking on the following link:
-[Perez John Patrick Portfolio](perezjohnpatrick.netlify.app/)
+[Perez John Patrick Portfolio](perezjohnpatrick.netlify.app)
